@@ -1,4 +1,4 @@
-# **Comprehensive Documentation: Deploying Apache Web Server on AWS EC2 using Terraform**
+# **Deploying Apache Web Server on AWS EC2 using Terraform**
 
 ## **Table of Contents**
 1. **Introduction**
