@@ -107,7 +107,9 @@ Enter:
    http://<public_ip>
    ```
    
-![image](https://github.com/user-attachments/assets/6c2904e8-9ddd-4077-986d-a63668821da7)
+![image](https://github.com/user-attachments/assets/ae109e3e-699c-4e06-a40d-14ccb08c80c9)
+
+
 
 
 ## **4. Cleanup (Destroy Resources)**
